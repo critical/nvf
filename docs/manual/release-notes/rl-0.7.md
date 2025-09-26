@@ -1,4 +1,4 @@
-# Release 0.7 {#sec-release-0.7}
+# Release 0.7 {#sec-release-0-7}
 
 Release notes for release 0.7
 

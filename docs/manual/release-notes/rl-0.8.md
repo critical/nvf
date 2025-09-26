@@ -1,4 +1,4 @@
-# Release 0.8 {#sec-release-0.8}
+# Release 0.8 {#sec-release-0-8}
 
 ## Breaking changes
 
@@ -28,6 +28,8 @@
   align with the "hunks" themed mapping and avoid conflict with the new [neogit]
   group.
 
+## Changelog {#sec-release-0-8-changelog}
+
 [NotAShelf](https://github.com/notashelf):
 
 [typst-preview.nvim]: https://github.com/chomosuke/typst-preview.nvim
@@ -38,7 +40,6 @@
 [colorful-menu.nvim]: https://github.com/xzbdmw/colorful-menu.nvim
 [oil.nvim]: https://github.com/stevearc/oil.nvim
 [hunk.nvim]: https://github.com/julienvincent/hunk.nvim
-[undotree]: https://github.com/mbbill/undotree
 
 - Add [typst-preview.nvim] under
   `languages.typst.extensions.typst-preview-nvim`.

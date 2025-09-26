@@ -1,6 +1,6 @@
-# Release 0.6 {#sec-release-0.6}
+# Release 0.6 {#sec-release-0-6}
 
-Release notes for release 0.6
+Release notes for release 0-6
 
 ## Breaking Changes and Migration Guide {#sec-breaking-changes-and-migration-guide}
 
