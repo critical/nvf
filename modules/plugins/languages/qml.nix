@@ -19,7 +19,7 @@
   defaultServers = ["qmlls"];
   servers = {
     qmlls = {
-      cmd = [(getExe' qmlPackage "qmlls")];
+      cmd = [(getExe' qmlPackage "qmlls") "-E"];
       filetypes = ["qml" "qmljs"];
       rootmarkers = [".git"];
     };
